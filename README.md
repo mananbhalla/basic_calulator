@@ -23,16 +23,10 @@ fc=a/b
 select=input("enetr the fuction you want ")
 if select == ab :#
     print(ac)
-
-    print(select)
-
 if select == ad :#
     print(ec)
-
 if select == ae :#
     print()
-
-
 if select == af :
     print(fc)
 
